@@ -1,5 +1,5 @@
 # 📱 Instagram Unfollowers
-`Revisa quien te dejó de seguir` \
+`Revisa quien te dejó de seguir` 
 
 Una herramienta práctica que te permite ver quién no te sigue en Instagram. 
 ¡Funciona desde el navegador y no requiere descargas ni instalaciones!
