@@ -7,7 +7,7 @@ Una herramienta práctica que te permite ver quién no te sigue en Instagram.
 Esta versión utiliza la API de Instagram para un mejor rendimiento.
 
 # 🖥️ Uso del escritorio
-1. Copia el código de: [Herramienta I-UNFOLLOWERS](https://intensivevm.github.io/index.html/)
+1. Copia el código de: [Herramienta I-UNFOLLOWERS](https://intensivevm.github.io/html/)
 
 2. Presione el botón COPIAR para copiar el código.
    
